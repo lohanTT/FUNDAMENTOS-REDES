@@ -33,6 +33,13 @@ Tipos de switches:
 ***
 ## Multistations access units (MAUs)
 ### Definição
+Podendo ser traduzido como "Unidade de Acesso à Múltiplas Estações", essa terminologia estava mais associada às redes Token Ring, um tipo de rede de computadores com fio que foi amplamente utilizado nas décadas de 1980 e 1990.
+
+Em redes Token Ring, a MAU era um dispositivo importante. Sua função era conectar várias estaç~es de rabalho (computadores) à rede Token Ring. Cada estação tinha um cabo que se conectava à MAU. A MAU então atuava como um concentrador, permitindo que as estações se comunicassem na rede usando a tecnologia Token Ring.
+
+A rede Token Ring usava um sistema de controle de acesso chamado "passagem do token", onde as estações tinham permissão para transmitir dados apenas quando possuíam o "token" que circulava na rede. A MAU tinha a tarefa de gerenciar a passagem do tokn e garantir que as estçaões tivessem a oportunidade de transmitir seus dados de maneira ordenada e justa.
+
+Com o avanço da tecnologia de redes, as redes Token Ring foram amplamente substituídas pelas redes Ethernet, que se tornaram o padrão predominante de redes com fio. Como resultado, o termo MAU tornou-se menos comum e relevante com o tempo, pois não se aplica à tecnologia Ethernet. No entanto, em contextos históricos ou em ambientes de rede muito antigos, você ainda pode encontrar referências a MAUs.
 ### Referencias
 ***
 ## Blade MAU
@@ -41,6 +48,7 @@ Tipos de switches:
 ***
 ## Porta ring-out (RO)
 ### Definição
+
 ### Referencias
 ***
 ## Porta ring-in
